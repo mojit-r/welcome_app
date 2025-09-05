@@ -33,4 +33,4 @@ lib/
 
 | Screenshot | Animated Demo |
 |------------|---------------|
-| ![Welcome Screen](assets/screenshots/welcome.png) | ![App Demo](assets/screenshots/demo.gif) |
+| ![Welcome Screen](assets/screenshots/welcome.jpg) | ![App Demo](assets/screenshots/demo.gif) |
