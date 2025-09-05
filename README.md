@@ -19,7 +19,7 @@ lib/
 ├── main.dart              # Entry point of the app
 ├── home.dart              # Home screen widget
 └── background_painter.dart # Custom painter for background design
-```plaintext
+```
 
 ## 🛠️ Built With
 
